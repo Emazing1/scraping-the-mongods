@@ -1,0 +1,19 @@
+{
+  "name": "scraping-the-mongods",
+  "version": "1.0.0",
+  "description": "Mongo and Scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emazing1/scraping-the-mongods.git"
+  },
+  "author": "Eric S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emazing1/scraping-the-mongods/issues"
+  },
+  "homepage": "https://github.com/Emazing1/scraping-the-mongods#readme"
+}
