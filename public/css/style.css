@@ -1,8 +1,10 @@
-body{text-align: center;}
+body{text-align: center;
+      background color: black;
+}
 html {overflow: -moz-scrollbars-vertical;overflow-y: scroll;}
 
 background {
-  imgs/newspaper-background_1_1920x1200.jpg
+  imgs/news1.jpg
 }
 
 .logo {

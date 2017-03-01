@@ -1,4 +1,4 @@
-/* Note Taker (18.2.6)
+/* 
  * backend
  * ==================== */ 
 
@@ -100,7 +100,7 @@ app.get('/find/:id', function(req, res){
 app.post('/update/:id', function(req, res) {
 	
   // when searching by an id, the id needs to be passed in 
-  // as (mongojs.ObjectId(IDYOUWANTTOFIND))
+  //
 
   // update the note that matches the object id
   db.notes.update({

@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/Emazing1/scraping-the-mongods/issues"
   },
-  "homepage": "https://github.com/Emazing1/scraping-the-mongods#readme"
+  "homepage": "https://github.com/Emazing1/scraping-the-mongods#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.1",
+    "mongojs": "^2.4.0",
+    "mongoose": "^4.8.5",
+    "morgan": "^1.8.1",
+    "request": "^2.79.0"
+  }
 }
